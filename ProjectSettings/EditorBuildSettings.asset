@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PingPong.unity
+    guid: 3a1842c58b0db744f88006fe78684f96
   m_configObjects: {}
